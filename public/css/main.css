@@ -1,0 +1,8 @@
+#imageUpload{
+	padding: 3px;
+}
+
+form#addLeader{
+	display: inherit !important;
+	width: 100% !important;
+}
